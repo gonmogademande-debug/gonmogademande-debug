@@ -11,7 +11,7 @@ Passionné par la cybersécurité défensive, je documente mon apprentissage et 
 - **Outils :** Git, Nmap, Netcat
 
 ### 📂 Mon Portfolio
-👉 **[Cliquez ici pour voir mes rapports d'investigation et mes scripts SOC](https://github.com/gonmogademande-debug/soc-portfolio-journey)**
+👉 [Cliquez ici pour voir mes rapports d'investigation et mes scripts SOC](https://github.com/gonmogademande-debug/soc-portfolio-journey)
 
 ### 📫 Me contacter
 - **Email :** gonmogademande@gmail.com
